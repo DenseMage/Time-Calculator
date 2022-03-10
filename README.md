@@ -32,8 +32,3 @@ add_time("11:43 PM", "24:20", "tueSday")
 add_time("6:30 PM", "205:12")
 # Returns: 7:42 AM (9 days later)
 ```
-
-### Testing 
-
-The unit tests for this project are in `test_module.py`. We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
-
